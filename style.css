@@ -1,0 +1,13 @@
+.banner{
+    width: 67%;
+    background-color: dodgerblue;
+    padding : 5%;
+    font-size : 50px;
+}
+.projects{
+    color : gold
+}
+
+.body{
+    background-color: indianred;
+}
